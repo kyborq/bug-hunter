@@ -59,5 +59,5 @@ npm run dev
 
 [![iStudent](https://github.com/kyborq/bug-hunter/assets/52314985/c6e70e87-c095-4d6e-b191-59a666976fb0)](https://github.com/kyborq/iStudent)
 [![BeatMate](https://github.com/kyborq/bug-hunter/assets/52314985/b882510f-bd40-4ab8-a3b4-05de40ea8ff0)](https://github.com/kyborq/BeatMate)
-[![PettoGram](https://github.com/kyborq/bug-hunter/assets/52314985/1e7fd3e9-511d-4cda-8400-3bcb04858787)](https://github.com/kyborq/PettoGram)
+[![PettoGram](https://github.com/kyborq/bug-hunter/assets/52314985/4cae93ab-6e84-4886-a59e-e73271acdd29)](https://github.com/kyborq/PettoGram)
 [![Stickers](https://github.com/kyborq/bug-hunter/assets/52314985/25aa50a9-f2e2-4fcb-9d5f-2e9c64f8d4e8)](https://github.com/kyborq/Stickers)
